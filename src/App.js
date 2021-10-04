@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-         Hi there! To react in docker with docker compose
+         This is through the feature branch
         </p>
         <a
           className="App-link"
